@@ -40,13 +40,16 @@ sidebar:
           item: Table tennis
           link:
         - interest:
+          item: Drawing
+          link: 
+        - interest:
           item: Learning new things
           link: 
         
 
 career-profile: 
     title: Career Profile
-    text: 'I am a learning student. <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'I am a learning student.'
 
 
 studies: 
@@ -97,22 +100,22 @@ skills:
     skills:
         - skill:
           name: Python & Django
-          level: 60%
+          level: 85%
         - skill:
-          name: Javascript & jQuery
-          level: 60%
+          name:HTML and CSS
+          level: 90%
         - skill:
-          name: Angular
-          level: 40%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill: 
           name: Git
           level: 85%
         - skill:
-          name: Photoshop
-          level: 60%
+          name: C, C++
+          level: 90%
+        - skill: 
+          name: PHP, Javascript
+          level: 80%
+        - skill:
+          name: DBMS
+          level: 85%
         - skill:
           name: Photoshop
           level: 60%
