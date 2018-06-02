@@ -41,11 +41,10 @@ sidebar:
         - interest:
           item: Drawing
           link:
-
+        - interest:
+          item: Learning new things
+          link: 
         
-
-
-
 
 career-profile: 
     title: Career Profile
@@ -53,11 +52,11 @@ career-profile:
 
 
 studies: 
-    - education:
+    - Education:
       degree: Running. BSc. CSIT in Computer Science
-      university: Tribhuvan University
+      University: Tribhuvan University
       College: Deerwalk Institute of technology
-      time: 2016-2020
+      Time: 2016-2020
       details: "I am currently in 4th semester."
 
 
@@ -86,9 +85,12 @@ skills:
         - skill:
           name: HTML5 & CSS
           level: 95%
-        - skill: Git
-          name: 
+        - skill: 
+          name: Git
           level: 85%
+        - skill:
+          name: Photoshop
+          level: 60%
         - skill:
           name: Photoshop
           level: 60%
