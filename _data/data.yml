@@ -19,6 +19,7 @@ sidebar:
     website: ajaybanstola.blogspot.com #do not add http://
     linkedin: ajay banstola
     github: ajay-banstola
+    twitter: '@_ajaaee'
 
     languages:
         - language:
@@ -37,9 +38,6 @@ sidebar:
           link:
         - interest:
           item: Table tennis
-          link:
-        - interest:
-          item: Drawing
           link:
         - interest:
           item: Learning new things
@@ -62,7 +60,31 @@ studies:
 
 projects:
     title: Projects
-    intro: "Javascript project, andriod studio project, C project, Php Project"
+    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    
+    projects:
+      - project:
+        title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - project:
+        title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - project:
+        title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - project:
+        title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - project:
+        title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
     
    
 
